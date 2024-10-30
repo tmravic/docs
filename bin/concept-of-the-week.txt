@@ -1,1 +1,1 @@
-content/d3/concepts/interactivity/interactivity.md
+content/git/concepts/reset/reset.md
