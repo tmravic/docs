@@ -7,6 +7,7 @@ Feel free to add suggestions for new tags to the list as part of your PR! Be sur
 ```
 Abstraction
 Accessibility
+Access Modifiers
 Aggregate Functions
 AI
 Algorithms
@@ -25,6 +26,7 @@ Assert
 Assignment
 Asymptotic Notation
 Async Await
+Attention
 Attributes
 Authentication
 Automation
@@ -53,6 +55,7 @@ Calendar
 Catch
 Characters
 Charts
+Chi-Square
 Chatbots
 Cryptocurrency
 Classes
@@ -84,11 +87,16 @@ CSS
 CSV
 Cybersecurity
 D3
+Deployment
 Dart
 Data
+Data Distributions
+Data Parallelism
 Data Structures
 Data Types
 Database
+DataLoader
+Datasets
 Date
 Dart Operators
 Debugging
@@ -105,6 +113,7 @@ Dictionary
 Dijkstra's
 Display
 Distance
+Dimensions
 Distinct
 Div
 Django
@@ -127,6 +136,7 @@ Errors
 ES6
 Ethical Hacking
 Events
+Event Handling
 Exceptions
 Expo
 Express
@@ -185,6 +195,7 @@ Interface
 iOS
 Iterators
 Java
+JavaScript
 Join
 jQuery
 JRuby
@@ -207,6 +218,7 @@ Lists
 Logic
 Logical
 Logistic Regression
+Logit
 Loops
 Map
 Machine Learning
@@ -218,12 +230,14 @@ Matrices
 Media Queries
 Memory
 Metadata
+Model Export
 Methods
 Middleware
 Models
 Modules
 Multitask Learning
 MultiTaskLasso
+Model Export
 MySQL
 Naive Bayes
 Natural Language Processing
@@ -240,10 +254,15 @@ Obsolete
 Ontologies
 OOP
 Opacity
+ONNX
+IaC
+DevOps
+Automation
 Open Source
 Operating Systems
 Operators
 Optimization
+Optimizers
 Optionals
 Output
 p5
@@ -270,6 +289,7 @@ Programming
 Properties
 Protocols
 Python
+PyTorch
 Queries
 Queues
 Quicksort
@@ -282,6 +302,7 @@ Readr
 Rectangle
 Recursion
 Redux
+RMSProp
 References
 Regular Expressions
 Requests
@@ -312,11 +333,14 @@ SQL Server
 Stacks
 Static Site
 Statistics
+Statsmodels
 Storage
+Strict Mode
 Stringr
 Strings
 Structure
 Style
+Stochastic Gradient Descent
 Subqueries
 Supervised Learning
 Swift
@@ -331,13 +355,16 @@ Tags
 Target
 Technical Interviews
 Templates
+Tensor
 TensorFlow
+Ternary
 Text-To-Image
 Text Processing
 Threads
 Tidyr
 Time
 Title
+Transformers
 Transitions
 Transpilation
 Trees
@@ -345,6 +372,7 @@ Trigonometry
 Try
 Tuples
 Types
+TorchScript
 Type Guard
 Type Narrowing
 Typography
@@ -371,10 +399,12 @@ Visibility
 VR
 Vue
 Web3
+Exponential
 WebRTC
 Weight & Bias
 While
 Whiteboarding
+Weibull
 Window Functions
 WordPress
 World Wide Web

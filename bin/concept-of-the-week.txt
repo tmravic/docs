@@ -1,1 +1,1 @@
-content/git/concepts/reset/reset.md
+content/typescript/concepts/interfaces/interfaces.md
