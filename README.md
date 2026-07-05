@@ -1,3 +1,11 @@
+<div align="center">
+  <strong>:warning: Contribution Status Update</strong><br>
+    Community contributions to Codecademy Docs are now closed.
+</div>
+<br>
+Codecademy Docs remains live and publicly accessible; however, we are no longer reviewing or merging external pull requests. We are incredibly grateful to the community members who contributed their time and expertise to help build Docs into what it is today.
+
+---
 <!-- markdownlint-disable MD041 MD002 -->
 <div align="center">
   <h1>📕 Docs</h1>
@@ -56,7 +64,7 @@ Here's how you can contribute to Codecademy Docs:
 - Submit your work:
   - Submit a Pull Request of your entry for your assigned Issue.
 - Collaborate and provide feedback:
-  - Reply to the thread on [Possible Content Discussion](https://discuss.codecademy.com/t/find-a-starting-point-possible-content-discussion/745868) to share ideas and collaborate with other contributors, maintainers, or super users to determine good future issues.
+  - Reply to the thread on [Possible Content Discussion](https://community.codecademy.com/) to share ideas and collaborate with other contributors, maintainers, or super users to determine good future issues.
   - Share your thoughts in this [Docs feedback form](https://codecademyready.typeform.com/to/hzVIWDgz) to tell us how we can improve Docs!
 
 Whether you are a code newbie or a seasoned hacker, there's something for you!
